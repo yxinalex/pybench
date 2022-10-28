@@ -1,0 +1,4 @@
+[submodule "pyqtwin"]
+	path = pyqtwin
+	url = https://github.com/yxinalex/pyqtwin
+	branch = dev
