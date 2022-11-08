@@ -2,3 +2,6 @@
 	path = pyqtwin
 	url = git@yxinalex.github.com:yxinalex/pyqtwin
 	branch = main
+[submodule "pybase"]
+	path = pybase
+	url = git@yxinalex.github.com:yxinalex/pybase
