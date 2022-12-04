@@ -19,6 +19,12 @@ Python Information
    $ python3 --version                             # Check your version of Python3
    ```
 
+- Python Winget Install
+   + https://winget.run/pkg/Python/Python.3.10
+   ```
+   > winget install -e --id Python.Python.3.10
+   ```
+
 - Python Pip Install (Usually, pip is automatically installed if you are using Python downloaded from python.org)
    + https://pypi.org/project/pip/
    + https://pip.pypa.io/en/stable/installation/
